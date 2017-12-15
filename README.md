@@ -1,4 +1,4 @@
-Here are some projects, seminars, courses I have engaged in and learned a lot.
+alHere are some projects, seminars, courses I have engaged in and learned a lot.
 
 ### Drug Sensitivity Ranking
 
@@ -34,7 +34,7 @@ This seminar covers basic ideas and techniques of non-parametric smoothing, incl
 
 Teacher: Liwei Wang from Peking University
 
-This course contains many topics about supvised learning. We  learned about a lot of content about concentration inequalities, including Chernoff inequality and its many deformation. We also learned about VC theory, which is the foundation of statistic learning theory. 
+This course contains many topics about supvised learning. We  learned about a lot of content about concentration inequalities, including Chernoff inequality and its many deformation. We also learned about VC theory, which is the foundation of statistical learning theory. Two practical algorithms and their properties are introducted in the class. Other topics about supervised learning are PAC-Bayes and online learning. Another important topic in the class is reinenforce learning. 
 
 ### The course Stochastic Analysis
 
