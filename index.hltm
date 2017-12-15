@@ -1,0 +1,61 @@
+  <!doctype html>
+  <html ng-app>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Richly.GitHub.io by richly</title>
+      <link rel="shortcut icon" href="assets/images/favicon.ico">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+      <link rel="stylesheet" href="stylesheets/layout.css">
+      <link rel="stylesheet" href="stylesheets/color.css">
+      <link rel="stylesheet" href="stylesheets/typography.css">
+      <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
+    </head>
+    <body>
+      <div class="profile">
+        <header>
+          <a href="./about.html">
+            <img id="rich" class="img-circle" height="100px" width="100px" src="assets/images/rich.jpg" alt="">
+          </a>
+          <h2><small>Rich Lu</small></h2>
+          <h5><small>Here lies one whose name was written in water.</small></h5>
+          <hr></hr>
+        </header>
+        <section id="wrapper" class="home">
+          <ul class="list-unstyled">
+            <li>
+              <a href="./001-628.html">张云龙《初创公司前端工程体系建设》学习总结</a>
+              <p id="description">组件化开发与系统拆分、持续集成/交付/部署、前端自动化测试、看板实战</p>
+              
+            </li>
+            <li>
+              <a href="/blog/2016/06/26/xcode-8-new-in-xcode-app-signing">Xcode8 新特性 -- 新应用签名机制</a>
+              <p id="description">Xcode8 提供的新的签名管理功能，更加方便开发者管理证书问题</p>
+              
+            </li>
+            <li>
+              <a href="/blog/2016/06/26/xcode-8-new-in-xcode-app-signing">Xcode8 新特性 -- 新应用签名机制</a>
+              <p id="description">Xcode8 提供的新的签名管理功能，更加方便开发者管理证书问题</p>
+           
+            </li>
+            <li>
+              <a href="/blog/2016/06/26/xcode-8-new-in-xcode-app-signing">Xcode8 新特性 -- 新应用签名机制</a>
+              <p id="description">Xcode8 提供的新的签名管理功能，更加方便开发者管理证书问题</p>
+              
+            </li>
+          </ul>
+
+        </section>
+        <footer>
+           <p class="small text-center">本站点采用<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a></p>
+           <p class="small">于 2016-10-12 生成 © Copyright 2016 Rich Lu</p>
+        </footer>
+      </div>
+      <script src="javascripts/angular.min.js"></script>
+      <script src="javascripts/scale.fix.js"></script>
+      
+    </body>
+  </html>
