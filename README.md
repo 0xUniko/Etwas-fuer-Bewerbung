@@ -4,7 +4,7 @@ Here are some projects, seminars, courses I have engaged in and learned a lot.
 
 Advisor: Professor Yuan Yao from Hong Kong University of Science and Technology 
 
-A kaggle contest held by Prof Yao for the drug sensitivity ranking, based on pairwise comparison data on cancer cell lines whose genetic (binary) features are also provided.More details about this contest can be found [here](https://www.kaggle.com/c/drugsensitivity-3)
+A kaggle contest held by Prof Yao for the drug sensitivity ranking, based on pairwise comparison data on cancer cell lines whose genetic (binary) features are also provided. More details about this contest can be found [here](https://www.kaggle.com/c/drugsensitivity-3)
 
 I use a DAG model and make improvements to a previous method. Finally I succeeded in winning first place in this contest.
 
