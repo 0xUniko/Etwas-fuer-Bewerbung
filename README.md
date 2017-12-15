@@ -1,6 +1,4 @@
-
-
-alHere are some projects, seminars, courses I have engaged in and learned a lot.
+Here are some projects, seminars, courses I have engaged in and learned a lot.
 
 ### Drug Sensitivity Ranking
 
