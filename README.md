@@ -6,9 +6,9 @@ Advisor: Professor Yuan Yao from Hong Kong University of Science and Technology
 
 A kaggle contest held by Prof Yao for the drug sensitivity ranking, based on pairwise comparison data on cancer cell lines whose genetic (binary) features are also provided.More details about this contest can be found [here](https://www.kaggle.com/c/drugsensitivity-3)
 
-I gained a lot of practical hand-on experience in processing data with python, including using numpy, pandas scikit-learn and other packages which are the essential tools for data science. I also had a deeper understanding about doing research. I experience the whole precedure about doing about research, including how to find an entry point when facing a new problem, how to find reference, and how to work it out practically. 
+I use a DAG model and make improvements to a previous method. Finally I succeeded in winning first place in this contest.
 
-I succeeded in winning first place in this contest.
+I gained a lot of practical hand-on experience in processing data with python, including using numpy, pandas scikit-learn and other packages which are the essential tools for data science. I also had a deeper understanding about doing research. I experience the whole precedure about doing about research, including how to find an entry point when facing a new problem, how to find reference, and how to work it out practically. 
 
 ### Estimation of lasso in Neyman-Rubin model
 
