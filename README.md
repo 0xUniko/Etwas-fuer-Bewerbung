@@ -1,3 +1,5 @@
+
+
 alHere are some projects, seminars, courses I have engaged in and learned a lot.
 
 ### Drug Sensitivity Ranking
@@ -40,4 +42,6 @@ This course contains many topics about supvised learning. We  learned about a lo
 
 Teacher: Zongxia Liang from Tsinghua University
 
-After finishing this course, I will be invincible where probability is used!
+This is an advanced course in probability, which containing the following contents: martingales with continuous parameter(including stopping time theorem, martingale inequalities and Doob inequality, convergence theorems including uniformly integrable and backward martingale, Doob Meyer decomposition, quadratic variation), Poisson process(including Poisson random measure) and Brownian motion, stochastic integral with respect to discontinuous semimartingales with jumps, Itô's formula, Lévy's characterization of Brownian motion, Burkholder-Davis-Gundy inequalities, Local time for Brownian motion, Girsanov's theorem, martingale representation theorem, Stochastic differential equations , and many others.
+
+After finishing this course, I feel like I will be invincible where probability is used!
